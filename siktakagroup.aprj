@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AksiIDE>
+  <project>
+    <name>SIKTakaGroup</name>
+    <module/>
+    <moduleid/>
+    <framework>
+      <name/>
+    </framework>
+    <site>
+      <RunAs>0</RunAs>
+      <url>http://localhost/</url>
+    </site>
+    <database/>
+    <js/>
+    <git/>
+  </project>
+</AksiIDE>

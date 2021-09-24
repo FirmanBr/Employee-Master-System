@@ -1,0 +1,7 @@
+form company belum lengkap nunggu data
+ata masalah posisi, organisasi dan departement nunggu mba ellen
+Membuat export excel
+membuat notif
+merubah json menjadi mysql
+
+
